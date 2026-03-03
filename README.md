@@ -1,2 +1,1 @@
-# zhejianglab_gpu_cluster_dataset
-A A dataset from the Zhejiang Laboratory GPU Cluster
+A dataset from the Zhejiang Laboratory GPU Cluster. We will open-source the dataset once paper acceptance.
